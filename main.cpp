@@ -4,5 +4,5 @@ int main() {
 
 	printf("HelloGitHub\n");
 
-	printf("HelloNewBlunch\n");
+	printf("HelloConfrict\n");
 }
